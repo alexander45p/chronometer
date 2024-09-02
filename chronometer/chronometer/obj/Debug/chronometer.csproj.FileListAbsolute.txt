@@ -1,0 +1,10 @@
+C:\Users\alexs\OneDrive\Escritorio\proyecto\para hacer y subir a githup\cronometro\chronometer\chronometer\bin\Debug\chronometer.exe.config
+C:\Users\alexs\OneDrive\Escritorio\proyecto\para hacer y subir a githup\cronometro\chronometer\chronometer\bin\Debug\chronometer.exe
+C:\Users\alexs\OneDrive\Escritorio\proyecto\para hacer y subir a githup\cronometro\chronometer\chronometer\bin\Debug\chronometer.pdb
+C:\Users\alexs\OneDrive\Escritorio\proyecto\para hacer y subir a githup\cronometro\chronometer\chronometer\obj\Debug\chronometer.csproj.AssemblyReference.cache
+C:\Users\alexs\OneDrive\Escritorio\proyecto\para hacer y subir a githup\cronometro\chronometer\chronometer\obj\Debug\chronometer.Form1.resources
+C:\Users\alexs\OneDrive\Escritorio\proyecto\para hacer y subir a githup\cronometro\chronometer\chronometer\obj\Debug\chronometer.Properties.Resources.resources
+C:\Users\alexs\OneDrive\Escritorio\proyecto\para hacer y subir a githup\cronometro\chronometer\chronometer\obj\Debug\chronometer.csproj.GenerateResource.cache
+C:\Users\alexs\OneDrive\Escritorio\proyecto\para hacer y subir a githup\cronometro\chronometer\chronometer\obj\Debug\chronometer.csproj.CoreCompileInputs.cache
+C:\Users\alexs\OneDrive\Escritorio\proyecto\para hacer y subir a githup\cronometro\chronometer\chronometer\obj\Debug\chronometer.exe
+C:\Users\alexs\OneDrive\Escritorio\proyecto\para hacer y subir a githup\cronometro\chronometer\chronometer\obj\Debug\chronometer.pdb
